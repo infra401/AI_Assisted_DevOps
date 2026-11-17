@@ -52,6 +52,18 @@ That's why it is superfast. <br>
 
 ---
 
+## Prompt Engineering
+
+It is a medium to communicate with large language models. <br> <br>
+
+-------------> Prompt -----------> LLM ---------------> output  <br>
+relevant <br>
+
+---
+---
+
+# AI Tools for DevOps
+
 
 
 
