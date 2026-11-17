@@ -18,6 +18,7 @@ log analysis <br>
 predict future events and identify patterns related to incident management basically in observability and incident management. <br>
 report any incidents that can occur in future. <br>
 
+AWS AutoScaling is done with traditional AI, it has predictive autoscaling <br>
 
 ---
 
@@ -38,6 +39,20 @@ Ask LLMs to generatr k8s manifest, it starts writing, it doesnot copy from stack
 ---
 
 ### How LLMs are so powerful
+
+llama:407B is trained on 407 billion parameters i.e huge amount of data. <br>
+
+super computers have huge amount of GPUs and TPUs, so they are capable of parallel computing. <br>
+
+### AI Model Training
+
+LLMs are trained with huge amount of gpus and tpus and once they are completely trained and when <br>
+you ask ChatGPT a question today or when you ask LAMA a question today, what it does it tries to respond back to you from its memory. <br>
+That's why it is superfast. <br>
+
+---
+
+
 
 
 
