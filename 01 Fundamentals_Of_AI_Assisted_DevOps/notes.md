@@ -64,6 +64,35 @@ relevant <br>
 
 # AI Tools for DevOps
 
+### DevOps Landscape: <br>
+- Linux
+- Git (doesn't matter github, gitlab, bitbucke)
+- CI/CD (doesnt matter jenkins, gitlab, Circle CI)
+- Infrastructure as Code (terraform, pulumi)
+- docker or podman
+- k8s or alternatives
+- ansible, puppet, chef
+
+<br>
+what you need to learn is the concept <br>
+
+Similarly, when you want to learn AI tools for devops engineering, we classified this into 4 parts
+
+### AI Landscape for DevOps
+
+- AI Chatbots
+chatgpt, claude, lama(locally on machine), deep seek
+- AI Agents
+it doesnt matter which AI agent you want to use, but two agents looked very promising 
+github copilot workspace and Bolt.new
+- AI Assistants
+such as Github copilot workspace or pieces for developers
+cursor.ai but it a paid tool
+- knowledge of a programming language like python and frameworks of python like FastAPI, flask, Django
+FastAPI is very promising for generative AI related activities 
+
+---
+
 
 
 
