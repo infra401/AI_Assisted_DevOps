@@ -81,15 +81,15 @@ Similarly, when you want to learn AI tools for devops engineering, we classified
 ### AI Landscape for DevOps
 
 - AI Chatbots
-chatgpt, claude, lama(locally on machine), deep seek
+<br> chatgpt, claude, lama(locally on machine), deep seek
 - AI Agents
-it doesnt matter which AI agent you want to use, but two agents looked very promising 
-github copilot workspace and Bolt.new
+<br> it doesnt matter which AI agent you want to use, but two agents looked very promising 
+<br> github copilot workspace and Bolt.new
 - AI Assistants
-such as Github copilot workspace or pieces for developers
-cursor.ai but it a paid tool
+<br> such as Github copilot workspace or pieces for developers
+<br> cursor.ai but it a paid tool
 - knowledge of a programming language like python and frameworks of python like FastAPI, flask, Django
-FastAPI is very promising for generative AI related activities 
+<br> FastAPI is very promising for generative AI related activities 
 
 ---
 
